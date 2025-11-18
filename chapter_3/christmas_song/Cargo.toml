@@ -1,0 +1,7 @@
+[package]
+name = "christmas_song"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+number_to_words = "0.1.1"
